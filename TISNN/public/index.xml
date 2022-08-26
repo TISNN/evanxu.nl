@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evan Xu&#39;s Blog</title>
+    <link>https://tisnn.github.io/</link>
+    <description>Recent content on Evan Xu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Aug 2022 00:18:06 +0800</lastBuildDate><atom:link href="https://tisnn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋🏻‍♂️ABOUT</title>
+      <link>https://tisnn.github.io/about/</link>
+      <pubDate>Wed, 24 Aug 2022 14:57:28 +0800</pubDate>
+      
+      <guid>https://tisnn.github.io/about/</guid>
+      <description>About me Name: Evan Xu School: University of Amsterdam &amp;amp; Vrije Universiteit Amsterdam Major: MSc Computer Science (Big Data Engineering) Research Interests: Machine learning, Deep learning, Data Mining, Software Engineering Email: tianhao.xu@student.uva.nl Current Location: Amsterdam, Netherlands 📍</description>
+    </item>
+    
+    <item>
+      <title>🖊 Prototype Design Demostration</title>
+      <link>https://tisnn.github.io/posts/project/prototype-design/</link>
+      <pubDate>Fri, 05 Aug 2022 00:18:06 +0800</pubDate>
+      
+      <guid>https://tisnn.github.io/posts/project/prototype-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://tisnn.github.io/posts/blog/blog/</link>
+      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
+      
+      <guid>https://tisnn.github.io/posts/blog/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://tisnn.github.io/posts/life/life/</link>
+      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
+      
+      <guid>https://tisnn.github.io/posts/life/life/</guid>
+      <description>项目 nihao ni hap asdas ds asd asd asd asd asd asd</description>
+    </item>
+    
+    <item>
+      <title>Project Overiew</title>
+      <link>https://tisnn.github.io/posts/project/project-overview/</link>
+      <pubDate>Thu, 05 May 2022 00:18:06 +0800</pubDate>
+      
+      <guid>https://tisnn.github.io/posts/project/project-overview/</guid>
+      <description>📕 Master Projects Personal Website Github io + Hugo + PaperMod | Link: Robotic Process Automation (RPA) Related Course: Entrepreneurship in Analytics and AI(EAAI) - 2022 - VU Jan. - Mar. 2022 | Github: https://github.com/TISNN/EAAI_2022_RPA Problems Banking industries often have to process a huge amount of information or data statistics. In recent years, most enterprise systems do not have the function of intelligent batch processing, and it often takes a</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://tisnn.github.io/posts/tech/tech/</link>
+      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
+      
+      <guid>https://tisnn.github.io/posts/tech/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🤝友链</title>
+      <link>https://tisnn.github.io/links/</link>
+      <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
+      
+      <guid>https://tisnn.github.io/links/</guid>
+      <description>Sulv&amp;#39;s Blog 一个记录技术、阅读、生活的博客 👉友链格式 名称： Sulv&amp;rsquo;s Blog 网址： https://www.sulvblog.cn 图标： https://www.sulvblog.cn/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
