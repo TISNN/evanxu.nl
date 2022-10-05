@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cat on Evan Xu&#39;s Blog</title>
+    <link>http://www.evanxu.nl/tags/cat/</link>
+    <description>Recent content in Cat on Evan Xu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Aug 2022 00:18:23 +0800</lastBuildDate><atom:link href="http://www.evanxu.nl/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🐱</title>
+      <link>http://www.evanxu.nl/posts/blog/cat/</link>
+      <pubDate>Fri, 26 Aug 2022 00:18:23 +0800</pubDate>
+      
+      <guid>http://www.evanxu.nl/posts/blog/cat/</guid>
+      <description>My cat is a Ragdoll. She was born on 7 January 2022. Ongoing updates&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
