@@ -1,4 +1,5 @@
-baseURL: https://tisnn.github.io/
+baseURL: http://www.evanxu.nl
+# baseURL: https://tisnn.github.io/
 # baseURL: https://www.sulvblog.cn  # 绑定的域名
 languageCode: en-us # en-us
 title: Evan Xu's Blog
@@ -46,7 +47,7 @@ languages:
           - name:  Project
             url: posts/project
           - name:  Resume
-            url: "Tianhao_Xu_Academic_CV.pdf"
+            url: "Tianhao Xu - CV.pdf"
           - name:  Life
             url: posts/life
           - name:  Cat

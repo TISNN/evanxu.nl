@@ -30,40 +30,11 @@ cover:
 
 # 📕 Master Projects
 
-### Personal Website
+<!-- ### Personal Website -->
 
-Github io + Hugo + PaperMod
+<!-- Github io + Hugo + PaperMod
 
-| Link: 
-
----
-
-### Robotic Process Automation (RPA)
-
-Related Course: Entrepreneurship in Analytics and AI(EAAI) - 2022 - VU
-
-*Jan. - Mar. 2022*
-
-
-| Github: https://github.com/TISNN/EAAI_2022_RPA
-
-#### Problems
-
-<mark>Banking industries </mark>often have to process a huge amount of information or data statistics. In recent years, most enterprise systems do not have the function of intelligent batch processing, and it often takes a lot of manpower and time to extract the target information in the file. These are very tedious and boring repetitive tasks.
-
-#### Solutions
-
-Use <mark>RPA+chatbot</mark> technology to develop an intelligent document processing and intelligent data analysis results. Use this technology to recognize complex textual information and customer needs.
-
-#### The value we create
-
-For enterprises, reduce labor and time costs and improve work efficiency. For customers, increase customer satisfaction during the use of the system.
-
-
-<!-- {{< ppt src="https://docs.google.com/presentation/d/1J-K0ivhOVnrEg-nW4Pus5X7L1n6wV61d/edit#slide=id.p1" >}}  -->
-
-
----
+| Link: evanxu.nl -->
 
 
 ### Using machine learning to analyze the sensor data from people's activities

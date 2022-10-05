@@ -1,20 +1,20 @@
 ---
-title: "Life"
+title: "Travel Diary"
 date: 2022-05-05T00:18:15+08:00
 lastmod: 2022-05-05T00:18:15+08:00
-author: ["Sulv"]
+author: ["Evan Xu"]
 keywords: 
 - 
 categories: 
 - 
 tags: 
-#- life
+- life
 description: ""
 weight:
 slug: ""
 draft: false # 是否为草稿
 comments: true
-reward: true # 打赏
+reward: false # 打赏
 mermaid: true #是否开启mermaid
 showToc: true # 显示目录
 TocOpen: true # 自动展开目录
@@ -28,9 +28,4 @@ cover:
     relative: false
 ---
 
-
----
-
-### 项目
-
-nihao ni hap asdas ds asd asd asd asd asd asd
+Waiting for updating...
